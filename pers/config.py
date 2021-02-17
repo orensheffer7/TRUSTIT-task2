@@ -7,7 +7,7 @@ REPO_NAME = 'TRUSTIT'
 ### If not entered github api is limited to 100 calls a day ###
 
 CLIENT_ID = 'e93b61d392e5682e0400'
-CLIENT_SECRET = '6474d747e10de48cd0609978ed8ad3babfdda57c'
+CLIENT_SECRET = '*******************************'
 
 
 ### PATHS ###
