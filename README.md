@@ -9,6 +9,7 @@ Task 2 - plan:
 - At a user's access to the dashboard the database is pulled and presents a list of <id, log, image> tuples. 
 
 ## Backend
+- Env: use requirements.txt to create env on your instance/docker
 - Written in python with a flask (sql db using flask-sqlalchemy) framework.
 - DB is a PostgreSQL (or any SQL) table with a <id:id (key), screenshot_path:url, log_path:url, date:datetime> scheme. 
 - In the future dataset will include other tables (E.g. Users, NOSQL db).
